@@ -16,3 +16,5 @@ Add the following entries in Environment Variables > System variables > Path:
 C:\Program Files\NIVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp
 C:\Program Files\NIVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
 C:\Program Files\NIVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64
+
+The demonstration of case studies given in the chapter 4. Working with Keras are provided in this repository as Jupyter Notebooks. These source codes are executable in any platform like Google Colab, Kaggle Notebooks and Jupyter Lab in Conda platforms.
