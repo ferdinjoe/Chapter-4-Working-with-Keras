@@ -11,3 +11,8 @@ The cuDNN library has three files: \bin\cudnn65_7.dll (version number may be dif
 
 By default %CUDA installation directory% points to C:\Program Files\NIVIDIA GPU Computing Toolkit\CUDA\v9.0
 
+Add the following entries in Environment Variables > System variables > Path:
+
+C:\Program Files\NIVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp
+C:\Program Files\NIVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
+C:\Program Files\NIVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64
